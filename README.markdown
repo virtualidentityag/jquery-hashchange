@@ -11,6 +11,9 @@ Visit the [project page](http://benalman.com/projects/jquery-hashchange-plugin/)
 ## Documentation ##
 [http://benalman.com/code/projects/jquery-hashchange/docs/](http://benalman.com/code/projects/jquery-hashchange/docs/)
 
+## Hint for Version 1.3.2 ##
+
+Plugin version 1.3.2 is compatible with jquery 3, so internet explorer is only supported from version 9 onwards. The support for Internet Explorer versions 6-8 has therefore been removed from the plugin.
 
 ## Examples ##
 These working examples, complete with fully commented code, illustrate a few
